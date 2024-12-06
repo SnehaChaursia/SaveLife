@@ -14,5 +14,5 @@ Searching based on location and blood group.
  Middle: Some Photos
  End:    Search Donor => blood group&&cityname
          => show donor list. ( Name, email,phno.)
-Footer: About us         
+Footer: About us.         
  
