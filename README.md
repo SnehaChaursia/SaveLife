@@ -1,5 +1,4 @@
-Purpose: its purpose to connect a person who need blood to the lifeSaver(DONOR).
-
+Purpose: its purpose to connect a person who need blood to the lifeSaver(DONOR).<br>
 Objectives:
 
 Easy to coonect
